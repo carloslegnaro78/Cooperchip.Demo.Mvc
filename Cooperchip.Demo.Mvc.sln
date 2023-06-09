@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Present
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Identity", "2.Identity", "{2CE5BB52-E81E-4239-8327-6242EF829F87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.Demo.Auth", "..\Cooperchip.Demo.Auth\Cooperchip.Demo.Auth.csproj", "{C540C417-050D-47A9-A7E5-F4269758DA6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{A4ECA211-2165-4CF3-AA93-945232A00D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4ECA211-2165-4CF3-AA93-945232A00D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4ECA211-2165-4CF3-AA93-945232A00D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C540C417-050D-47A9-A7E5-F4269758DA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C540C417-050D-47A9-A7E5-F4269758DA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C540C417-050D-47A9-A7E5-F4269758DA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C540C417-050D-47A9-A7E5-F4269758DA6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A4ECA211-2165-4CF3-AA93-945232A00D03} = {BDE1377D-83BB-4374-A078-ED8B4177E47E}
+		{C540C417-050D-47A9-A7E5-F4269758DA6C} = {2CE5BB52-E81E-4239-8327-6242EF829F87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEEC8D9E-F3C9-4FE9-AE6E-51B3B9E2E482}
